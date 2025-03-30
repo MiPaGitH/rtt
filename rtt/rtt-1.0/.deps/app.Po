@@ -1,0 +1,3 @@
+app.o: app.c /usr/include/stdc-predef.h app.h
+/usr/include/stdc-predef.h:
+app.h:
